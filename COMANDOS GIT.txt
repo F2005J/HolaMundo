@@ -1,0 +1,8 @@
+cd Desktop/
+git clone jotech@10.51.7.101:simulacionSI.git
+cd simulacionED
+cat simulacionED.txt
+nano respuestas.txt
+git add respuestas.txt
+git commit -m "entrega"
+git push
